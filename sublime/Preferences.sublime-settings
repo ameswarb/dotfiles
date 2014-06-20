@@ -1,0 +1,26 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_selector": "source, text",
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
+	"font_face": "Menlo",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"theme": "Nexus.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true
+}

@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AngularJS (CoffeeScript)",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"CSSTidy",
+		"FileDiffs",
+		"Handlebars",
+		"HTMLBeautify",
+		"HtmlTidy",
+		"Jade",
+		"Jinja2",
+		"JsFormat",
+		"JSHint",
+		"JSLint",
+		"JSONLint",
+		"LESS",
+		"Package Control",
+		"Python Flake8 Lint",
+		"Sass",
+		"sublimelint",
+		"SublimeLinter",
+		"Theme - Nexus",
+		"Theme - Soda"
+	]
+}
